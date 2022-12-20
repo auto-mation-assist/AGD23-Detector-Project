@@ -22,3 +22,6 @@ It takes a good deal of time to assemble this project and the parts costs are no
 
 This project is just for assembly of the circuit boards, other items required to build the complete metal detector are readily available from vendors that normally sell those items and will vary depending on the builders desires. The enclosure and its end plates needs to be aluminum to provide protection agaist RFI. I had some diecast aluminum laying around from an old HP pen and ink plotter and used it to make my enclosures. The size of the circuit boards were layed out to fit that material.
 
+My enclosure is 3.231 wide x 4.832 in height x 7.000 long front to rear with 1/8 inch walls and 4 10/32 screws in the corners. The size of my enclosure front and rear end plates 1/8 thick x 3.250 wide x 4.832 in height. 
+
+I will post more details in folders when ready.
