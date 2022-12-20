@@ -1,4 +1,4 @@
-# AGD---Alaska-Gold-Detector-Proj
+# AGD my Alaska-Gold-Detector-Project
 
 12/20/2022 - Auto-Mation-Assist - Johannes P Fassotte
 
