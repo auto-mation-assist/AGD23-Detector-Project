@@ -29,4 +29,4 @@ The project information I have posted is an aid for getting parts installed on t
 
 My enclosure is 3.231 wide x 4.832 in height x 7.000 long front to rear with 1/8 inch walls and 4 10/32 screws in each corner, front and rear. The size of my enclosure front and rear end plates 1/8 thick x 3.250 wide x 4.832 in height. Thre are 3 10/32 tapped holes in the top that attaches the rail to clamp on the the rear of the shaft. This then mates up to the lower claws in the standard GPX 5000 shaft mounted arm support. I made the rail using my milling machine.
 
-I will post more details in folders when in the future.
+I will post more details in the future.
