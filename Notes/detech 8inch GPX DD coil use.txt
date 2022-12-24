@@ -1,0 +1,50 @@
+# Auto-Mation-Assist 12/24/2022  AGD-my-Alaska-Gold-Detector-Proj
+
+
+I have done some preliminary tests with the Detech 8" GPX DD coil. These tests
+utilized test equipment in order to be able to see what is going on inside the
+electronics and how changing coils affect the waveforms and signal levels.
+
+The measured inductance of the Detech TX coil was 286uh which is about 17uh less
+than the CoilTek wound elite coils used during circuit development.
+I used two CoilTek 9 inch coils and one 14 inch coil and all had 303 uh inductance.
+
+Without making changes to the TX coil load resistor values of 651.8 ohms for the CoilTek
+coils the Detech coil show significant ringing and required the load resistor on the TX
+side to be reduced to 491.4 ohms. This presents a problem due the in reduction of inductance
+to 286uh versus 303uh for the CoilTek coils which all measure the same value.
+
+Thus in order to maximize performance of the Detech coil would require a way to switch
+the resistance of the TX coil load so that the decay is properly damped.
+
+At longer TX pulse widths the Detech RX coil with its measured 388.5uh inductance of
+the RX coil will overload the to receive side and require a the addition of a RX load
+resistor and also perhaps a switch to reduce preamp gain. I think it would be better
+to develop my own DD coil that has the same inductance as the CoilTek coils and also
+reduce the number of turns in the RX coil to lower its inductance. I do not know
+if the Detech RX coil has a built in load resistor and its value but I had to install
+a 127 ohm resistor across the Detech RX coil to stop overloads at greater pulse widths.
+
+From information I was able to find for the GPX I see that my circuit design may use a
+substantialy higher TX pulse voltage than the GPS and that this increases the problem
+with a high turns ratio of the Detech RX coil. There is no need to have a high turns
+ratio between the TX and RX coils with the preamp in the AGD detectors circuit design
+and thus a better match can likely be made with custom DD coils or coils that more
+closely match the inductance of the CoilTek coils mentioned.
+
+I made the resistance changes to run test of the Detech 8 inch DD coil versus the
+CoilTek 9 elite 9 inch mono coils and for my tests and in my environment indicated
+that Detech coil did not do as well as my CoilTek 9 inch coils.  A good
+part for that is likely because inductances between the Detech and CoilTek coils
+vary way to much to be a excellent plug and play match.
+
+Testing the Detech coil was worthwile since it clearly shows that switching coils
+can make problems that only become visible when electronic test equipment is used
+to analyze what is actually going on inside of a metal detector.
+
+
+
+
+
+
+
